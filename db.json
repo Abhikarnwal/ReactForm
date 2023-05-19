@@ -1,0 +1,14 @@
+{
+  "employees": [
+    { "id": 1, "name": "John Doe", "department": "HR", "salary": 50000 },
+    { "id": 2, "name": "Jane Smith", "department": "IT", "salary": 60000 },
+    { "id": 3, "name": "Alice Johnson", "department": "Sales", "salary": 55000 },
+    { "id": 4, "name": "Bob Williams", "department": "HR", "salary": 52000 },
+    { "id": 5, "name": "Mike Brown", "department": "IT", "salary": 65000 },
+    { "id": 6, "name": "Sarah Davis", "department": "Sales", "salary": 58000 },
+    { "id": 7, "name": "Tom Wilson", "department": "IT", "salary": 62000 },
+    { "id": 8, "name": "Emily Taylor", "department": "HR", "salary": 53000 },
+    { "id": 9, "name": "Alex Clark", "department": "Sales", "salary": 57000 },
+    { "id": 10, "name": "Jessica Lee", "department": "IT", "salary": 63000 }
+  ]
+}
